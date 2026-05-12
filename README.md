@@ -1,4 +1,9 @@
 # 24K-AI 金融智能分析平台
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16+-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 AI 驱动的 A 股**实时行情**与市场深度分析平台，通过智谱模型 + 证券公司 MCP 服务，为用户提供龙虎榜、财务分析、ETF 榜单、指数估值等专业数据解读。
 
