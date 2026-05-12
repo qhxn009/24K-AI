@@ -158,8 +158,8 @@ npm run dev
 
 ## 致谢
 
-- [智谱 AI](https://chat.z.ai/) - GLM-4.7-Flash 模型
-- [广发证券](https://www.gf.com.cn/web/home) - MCP 金融数据服务
+- [智谱 AI](https://chat.z.ai/) - 提供免费满血版模型
+- [广发证券](https://www.gf.com.cn/web/home) - 提供 MCP 金融数据服务
 
 ---
 
