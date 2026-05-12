@@ -50,8 +50,8 @@ AI 驱动的 A 股实时行情与市场深度分析平台，通过智谱模型 +
 24K-AI/
 ├── backend/                 # Python FastAPI 后端
 │   ├── main.py              # 入口文件
-│   ├── llm_service.py       # 智谱 GLM 流式调用 + Tool Call 拦截
-│   ├── mcp_client.py        # 广发证券 MCP 客户端
+│   ├── llm_service.py       # LLM流式调用 + Tool Call 拦截
+│   ├── mcp_client.py        # MCP 客户端
 │   ├── tool_registry.py     # MCP 工具注册表
 │   ├── system_prompt.py     # 系统提示词
 │   ├── schemas.py           # Pydantic 数据模型
