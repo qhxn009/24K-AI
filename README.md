@@ -42,7 +42,7 @@ AI 驱动的 A 股实时行情与市场深度分析平台，通过智谱模型 +
 - **前端**：`cd frontend && npm run dev` → `http://localhost:3000`
 
 ### ⚠️ 注意事项
-请在 `.env` 文件中填入实际的 **GFZQ_TOKEN**（广发证券 MCP Token），当前为占位符。智谱 API Key 已配置完成。
+请在 `.env` 文件中填入实际的广发证券MCP Token和智谱 API Key 。
 
 ## 项目结构
 
