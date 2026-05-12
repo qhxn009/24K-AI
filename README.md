@@ -156,7 +156,7 @@ npm run dev
 
 ## 致谢
 
-- [智谱 AI](https://chat.z.ai/) - 提供免费满血版模型
+- [智谱 AI](https://www.bigmodel.cn/invite?icode=%2F7GW43rLVlqOKpBa8XiSvGczbXFgPRGIalpycrEwJ28%3D) - 提供免费满血版模型
 - [广发证券](https://www.gf.com.cn/web/home) - 提供 MCP 金融数据服务
 
 ---
