@@ -7,18 +7,7 @@
 | 📈 沪深指数估值分析 | 主流宽基、行业、主题指数估值分位与ETF联动分析 | 
 
 ### 1、龙虎榜
-```streamable-http
-{
-    "mcpServers": {
-        "gf_lhb": {
-            "type": "streamable-http",
-            "url": "https://mcp-api.gf.com.cn/server/mcp/lhb/mcp",
-            "headers": {
-              "Authorization": "Bearer <GFZQ_TOKEN>"
-            }
-        }
-    }
-}
+
 ```
 #### 相关工具使用示例
 
@@ -95,19 +84,7 @@
 }
 ```
 ### 2、财务分析
-```streamable-http
-{
-    "mcpServers": {
-        "gf_quant": {
-            "type": "streamable-http",
-            "url": "https://mcp-api.gf.com.cn/server/mcp/quant/mcp",
-            "headers": {
-              "Authorization": "Bearer <GFZQ_TOKEN>"
-            }
-        }
-    }
-}
-```
+
 #### 可用工具使用说明
 1. 基本指标对比（单个或多个股票）```commonBasic```用途: 获取单个或多个股票的基本指标，如市值与估值。示例:
 ```
@@ -225,19 +202,7 @@
 }
 ```
 ### 3、热门ETF
-```streamable-http
-{
-    "mcpServers": {
-        "gf_etfrank": {
-            "type": "streamable-http",
-            "url": "https://mcp-api.gf.com.cn/server/mcp/etf_rank/mcp",
-            "headers": {
-              "Authorization": "Bearer <GFZQ_TOKEN>"
-            }
-        }
-    }
-}
-```
+
 #### 可用工具```finance-api_product_etf_rank_get```
 获取ETF各类榜单数据
 
@@ -288,19 +253,7 @@
 ```
 
 ### 4、指数估值
-```streamable-http
-{
-    "mcpServers": {
-        "gf_windmill": {
-            "type": "streamable-http",
-            "url": "https://mcp-api.gf.com.cn/server/mcp/windmill/mcp",
-            "headers": {
-              "Authorization": "Bearer <GFZQ_TOKEN>"
-            }
-        }
-    }
-}
-```
+
 #### 工具名称：```valuation_windmill_get```
 用途：获取指数估值&顺风车榜单数据
 相关工具使用示例
